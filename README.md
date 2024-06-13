@@ -7,7 +7,7 @@ provided "as is"; we make no guarantees about any plugin in this repo.
 
 ## Setting up the development environment
 
-We recommend [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/download/) as well as Java 11. You can either have
+We recommend [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/download/other.html) as well as Java 11. You can either have
 IntelliJ install Java (select `Eclipse Temurin`) or download it from https://adoptium.net/temurin/releases/.
 
 ## Creating new plugins
